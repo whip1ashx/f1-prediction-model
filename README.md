@@ -60,7 +60,7 @@ This is a portfolio project created to simulate a real-world analytics use case 
 
 ---
 
-📁 Repository Structure
+## 📁 Repository Structure
 f1-prediction-model/
 │
 ├── data/
