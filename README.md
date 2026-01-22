@@ -61,6 +61,8 @@ This is a portfolio project created to simulate a real-world analytics use case 
 ---
 
 ## 📁 Repository Structure
+
+```text
 f1-prediction-model/
 │
 ├── data/
@@ -78,6 +80,7 @@ f1-prediction-model/
 ├── requirements.txt                 # Python dependencies
 ├── todo.txt                         # Development notes (optional)
 └── README.md                        # Project documentation
+
 
 
 
