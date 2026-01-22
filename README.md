@@ -60,23 +60,24 @@ This is a portfolio project created to simulate a real-world analytics use case 
 
 ---
 
-## 📁 Repository Structure
+📁 Repository Structure
 f1-prediction-model/
 │
-├── data/                      # Raw and processed Formula 1 datasets
+├── data/
+│   └── f1_datasets/                 # Raw and processed Formula 1 datasets
 │
-├── scripts/                   # Data cleaning, feature engineering, and modeling scripts
+├── scripts/                         # Data cleaning, feature engineering, modeling
 │
 ├── static/
-│   └── images/                # Images and visual assets for the web app
+│   └── images/                      # Images and visual assets for the web app
 │
-├── templates/                 # HTML templates for the Flask interface
+├── templates/                       # HTML templates for the Flask interface
 │
-├── app.py                     # Flask application entry point
-├── f1_racing.db               # SQLite database containing processed race data
-├── requirements.txt           # Python dependencies
-├── todo.txt                   # Development notes (optional)
-└── README.md                  # Project documentation
+├── app.py                           # Flask application entry point
+├── f1_racing.db                     # SQLite database with processed race data
+├── requirements.txt                 # Python dependencies
+├── todo.txt                         # Development notes (optional)
+└── README.md                        # Project documentation
 
 
 
