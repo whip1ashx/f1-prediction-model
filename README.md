@@ -34,6 +34,11 @@ This is a portfolio project created to simulate a real-world analytics use case 
 
 ---
 
+## 📸 Project Snapshot
+
+### Driver Performance Prediction Interface
+![F1 Prediction UI](static/images/f1_prediction_ui.png)
+
 ## 🛠️ Tools & Technologies
 - Python
 - Pandas, NumPy
