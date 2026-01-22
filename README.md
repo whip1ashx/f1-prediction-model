@@ -60,6 +60,7 @@ This is a portfolio project created to simulate a real-world analytics use case 
 
 ---
 
+## 📁 Repository Structure
 f1-prediction-model/
 │
 ├── data/                 # Raw and processed Formula 1 datasets
