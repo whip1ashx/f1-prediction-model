@@ -61,3 +61,9 @@ This is a portfolio project created to simulate a real-world analytics use case 
 ---
 
 ## 📁 Repository Structure
+data/ # Raw and processed datasets
+scripts/ # Data processing and modeling scripts
+templates/ # HTML templates for Flask app
+static/ # Static assets
+app.py # Flask application
+f1_racing.db # SQLite database
