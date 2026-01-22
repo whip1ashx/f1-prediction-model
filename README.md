@@ -73,3 +73,4 @@ f1-prediction-model/
 ├── f1_racing.db          # SQLite database containing processed data
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
+
